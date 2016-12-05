@@ -78,17 +78,6 @@ header {
 	height: 210px;
 	background-size: cover; }
 
-.img2 .back {
-	display: none;
-}
-
-.img2:hover .back {
-	color: #fff;
-	background-color: rgba(240, 95, 64, 0.5);
-	height: 100%;
-	display: block;
-}
-
 .img3 {
 	background-image: url("../img/3.jpg");
 	height: 210px;
