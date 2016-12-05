@@ -1,0 +1,154 @@
+/*-------------------------------------------HEADER*/
+header {
+	background-image: url("../img/header.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center; }
+
+.navbar {
+	height: 500px; }
+
+.navbar button {
+	border: 1px solid #fff;
+}
+
+.navbar .navbar-toggle .icon-bar {
+	background: #fff;
+
+}
+/*-------------------------------------HERO-SECTION*/
+.hero-section {
+	text-align: center;
+}
+	/*background-image: url("../img/header.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+	color: #fff;  }*/
+
+.hero-section .frase1 {
+	padding-top: 5%;
+	padding-bottom: 15%;
+	margin-top: -45%;
+	color: #fff; }
+
+.hero-section button {
+	border: none;
+	background-color: #f05f40;
+	border-radius: 8px;
+	padding: 8px 7px; }
+
+/*-------------------------------------ABOUTME-SECTION*/
+.about-me {
+	background-color: #f05f40; 
+	color: #fff;
+	margin-top: -9%; }
+
+.about-me hr {
+	border: 1px solid #fff;
+	width: 5%; }
+
+.about-me .frase2 {
+	padding-top: 2%;
+	padding-bottom: 3%;
+}
+/*-------------------------------------SERVICES-SECTION*/
+.services i {
+	color: #f05f40;
+	font-size: 300%;
+	margin-left: 47%; }
+
+.services hr {
+	border: 1px solid #f05f40;
+	width: 5%; }
+
+/*---------------------------------MIS TRABAJOS-SECTION*/
+.trabajos {
+	width: 95%;
+	margin-top: 4%;
+	margin-right: auto;
+	margin-left: auto;3	/*margin-bottom: 4%;*/ }
+
+.img1 {
+	background-image: url("../img/1.jpg");
+	height: 210px;
+	background-size: cover; }
+
+.img2 {
+	background-image: url("../img/2.jpg");
+	height: 210px;
+	background-size: cover; }
+
+.img2 .back {
+	display: none;
+}
+
+.img2:hover .back {
+	color: #fff;
+	background-color: rgba(240, 95, 64, 0.5);
+	height: 100%;
+	display: block;
+}
+
+.img3 {
+	background-image: url("../img/3.jpg");
+	height: 210px;
+	background-size: cover; }
+
+.img3 .back {
+	display: none;
+}
+
+.img3:hover .back {
+	color: #fff;
+	background-color: rgba(240, 95, 64, 0.5);
+	height: 100%;
+	display: block;
+}
+
+.img3 .back h3 {
+	padding-top: 30%;
+}
+
+.img4 {
+	background-image: url("../img/4.jpg");
+	height: 210px;
+	background-size: cover; }
+
+.img5 {
+	background-image: url("../img/5.jpg");
+	height: 210px;
+	background-size: cover; }
+
+.img6 {
+	background-image: url("../img/6.jpg");
+	height: 210px;
+	background-size: cover; }
+
+.trabajos .github {
+	background: #222222;
+	padding: 2% 0; }
+
+.github p {
+	color: #fff;
+}
+
+.trabajos .github button {
+	border: none;
+	border-radius: 7px;
+	font-weight: bold; }
+
+/*-----------------------------------CONTACTAME-FOOTER*/
+.contact {
+margin-top: 4%;
+margin-bottom: 2%; }
+
+.contact .iconos {
+	text-align: center; }
+
+.contact hr {
+	border: 1px solid #f05f40;
+	width: 5%; }
+
+.contact i {
+	font-size: 200%; }
+

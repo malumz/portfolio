@@ -1,0 +1,90 @@
+@media screen and (max-width: 768px) {
+ 
+/*-----------------------------------HEADER AND HERO*/
+  .container {
+    width: 670px;
+  }
+
+  nav .navbar-header {
+    background-color: rgba(255, 255, 255, 0.7);
+  }
+ 
+ .navbar button {
+  border: 1px solid #f05f40;
+}
+
+.navbar .navbar-toggle .icon-bar {
+  background: #f05f40; }
+
+.nav {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+  .hero-section .frase1 h1 {
+    font-size: 300%;
+    margin-top: -10%;
+  }
+}
+
+@media screen and (max-width: 657px){
+  .container {
+    width: 100%;
+  }
+
+.navbar {
+  height: 300px; 
+  margin-bottom: 0px;}
+
+  .hero-section .frase1 {
+    margin-top: -27%;
+    font-size: 90%;
+    padding-bottom: 0;
+  }
+}
+
+@media screen and (max-width: 608px){
+  .container {
+    width: 100%;
+  }
+
+  .hero-section .frase1 {
+    margin-top: -27%;
+    font-size: 70%;
+    padding-bottom: 3%;
+  }
+}
+@media screen and (max-width: 520px){
+  .container  {
+    width: 100%;
+  }
+
+  .hero-section .frase1 {
+    margin-top: -40%;
+    font-size: 70%;
+    padding-bottom: 3%;
+  }
+}
+
+@media screen and (max-width: 430px){
+  .container  {
+    width: 100%;
+  }
+
+  .hero-section .frase1 {
+    margin-top: -55%;
+    font-size: 70%;
+    padding-bottom: 3%;
+  }
+}
+
+@media screen and (max-width: 375px){
+  .container  {
+    width: 100%;
+  }
+
+  .hero-section .frase1 {
+    margin-top: -65%;
+    font-size: 70%;
+    padding-bottom: 3%;
+  }
+}
